@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ka-ching:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ka_ching_jar</output-path>
+    <root id="archive" name="ka-ching.jar">
+      <element id="module-output" name="ka-ching" />
+    </root>
+  </artifact>
+</component>
